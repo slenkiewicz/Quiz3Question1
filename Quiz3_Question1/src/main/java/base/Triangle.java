@@ -1,3 +1,4 @@
+package base;
 import java.lang.Math;
 
 public class Triangle extends GeometricObject {
